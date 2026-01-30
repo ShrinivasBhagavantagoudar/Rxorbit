@@ -1,0 +1,17 @@
+streamlit
+pillow
+gTTs
+datasets
+reportlab
+pdf2image
+pandas
+rapidfuzz
+transformers
+torch
+accelerate
+# OCR engines:
+pytesseract
+streamlit>=1.22.0
+requests
+google-generativeai>=0.8.0
+python-dotenv   
